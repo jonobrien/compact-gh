@@ -1,5 +1,7 @@
 .p-3 {
+    display: none;
+}
+.py-3 {
     padding-top: 4px !important;
     padding-bottom: 4px !important;
-    display: none;
 }
