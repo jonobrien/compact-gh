@@ -1,6 +1,8 @@
 # gh_compact
 css to remove lots of 'extra' whitespace
 
+stahp changing the layout plz github
+
 I want to glance at new news feed items, I don't want to scroll through pages of changes.
 
 I want to glance at my repositories.
